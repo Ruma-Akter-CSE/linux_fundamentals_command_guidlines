@@ -1,6 +1,5 @@
 # linux command guidline
 
-
 # Table of content:
 1. [File System Navigation](#List)
 
@@ -10,21 +9,21 @@
 - Find current shell.
 
  2. [File and Directory Operations](#Create)
-- Create a directory named linux_fundamentals in your home directory.
-- Inside linux_fundamentals, create a subdirectory named scripts.
-- Create an empty file named example.txt inside the linux_fundamentals directory.
-- Copy example.txt to the scripts directory.
+- Create a directory named linux_fundamentals in your home directory
+- Inside linux_fundamentals, create a subdirectory named scripts
+- Create an empty file named example.txt inside the linux_fundamentals directory
+- Copy example.txt to the scripts directory
 - Move example.txt from linux_fundamentals to linux_fundamentals/backup
 
 3. [Permissions](#Permissions)
-- Change the permissions of example.txt to read and write for the owner, and read-only for the group and others.
+- Change the permissions of example.txt to read and write for the owner, and read-only for the group and others
 - Verify the permission changes using ls -l
   
 4. [File Modification](#Numeric-Permissions)
-- Create a file named example.txt in your home directory.
-- Change the owner of example.txt to a user named student.
-- Change the group of example.txt to a group named students.
-- Verify the changes using appropriate commands.
+- Create a file named example.txt in your home directory
+- Change the owner of example.txt to a user named student
+- Change the group of example.txt to a group named students
+- Verify the changes using appropriate commands
 
 
 ## List
